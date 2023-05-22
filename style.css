@@ -1068,3 +1068,7 @@ h4 {
 .fix-position {
     position: relative;
 }
+.fix-div-margin {
+    margin: 0;
+    padding: 1px;
+}
