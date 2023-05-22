@@ -1072,3 +1072,6 @@ h4 {
     margin: 0;
     padding: 1px;
 }
+.image-resize-mode {
+    height: 100px;
+}
