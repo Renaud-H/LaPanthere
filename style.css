@@ -778,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -812,13 +812,13 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
+/* .bg-dots-bg {
     background-image: url("img/dots-bg.png");
-}
+} */
 
-.bg-lines-h2-bg {
+/* .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.webp");
-}
+} */
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
@@ -1034,6 +1034,10 @@ h4 {
     .bg-banniere {
         background-image: url("img/agence-la-panthere-small.webp");
     }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation-small.webp");
+        background-size: cover;
+    }
 }
 
 @media (max-width: 767px) {
@@ -1086,4 +1090,3 @@ h4 {
     height: 100%;
     width: 100%;
 }
-
