@@ -1079,3 +1079,7 @@ h4 {
     position: relative;
     z-index: 100;
 }
+.img-logo-header {
+    height: 100%;
+    width: 100%;
+}
