@@ -1031,6 +1031,9 @@ h4 {
     .row {
         width: 100%;
     }
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere-small.png");
+    }
 }
 
 @media (max-width: 767px) {
@@ -1083,3 +1086,4 @@ h4 {
     height: 100%;
     width: 100%;
 }
+
