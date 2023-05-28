@@ -811,15 +811,6 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
-
-/* .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-} */
-
-/* .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.webp");
-} */
-
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
 }
@@ -884,9 +875,6 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
     }
-}
-@media (max-width: 767px) {
-
 }
 @media (max-width: 767px) {
     .page-container {
